@@ -1,2 +1,2 @@
-# buldadev-day1
+# buildadev-day1
 simple console calculator
